@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"sort"
 
-	"github.com/ferminfeng/gophp/utils"
+	"github.com/ferminfeng/go-php/utils"
 )
 
 func Marshal(value interface{}) ([]byte, error) {

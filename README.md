@@ -1,14 +1,14 @@
 gophp
 ====
 
-## 来自 github.com/ferminfeng/gophp
+## 来自 github.com/ferminfeng/go-php
 
 Golang implementation for PHP's functions
 
 ## Install / Update
 
 ```
-go get -u github.com/ferminfeng/gophp
+go get -u github.com/ferminfeng/go-php
 ```
 
 ## Example
@@ -19,7 +19,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/ferminfeng/gophp"
+	"github.com/ferminfeng/go-php"
 )
 
 func main() {
